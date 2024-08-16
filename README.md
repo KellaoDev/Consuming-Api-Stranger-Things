@@ -1,4 +1,4 @@
-# Consuming API JS Project
+# Consuming API of Stranger Things JS Project
 
 This is an empty React Native Web project template. We can start a new project copying this folder and run `npm install` to download all dependencies.
 
